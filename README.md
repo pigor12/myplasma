@@ -9,18 +9,18 @@ Este projeto consiste em um script Bash para automatizar a configuração inicia
 
 ## Como usar
 
-1. Faça o download do arquivo `configuracao.sh`.
+1. Faça o download do arquivo `script.sh`.
 
-2. Abra um terminal e navegue até o diretório onde o arquivo `configuracao.sh` foi salvo.
+2. Abra um terminal e navegue até o diretório onde o arquivo `script.sh` foi salvo.
 
 3. Dê permissão de execução para o script usando o seguinte comando:
 
    ```bash
-   chmod +x configuracao.sh
+   chmod +x script.sh
 Execute o script como root usando o seguinte comando:
 
   ```bash
-  sudo ./configuracao.sh
+  sudo ./script.sh
   ```
   
 O script solicitará a senha de root para executar as ações necessárias.
